@@ -73,3 +73,5 @@ Style/ExpandPathArguments:
   Enabled: false
 Style/PerlBackrefs:
   Enabled: false
+Style/IfUnlessModifier:
+  Enabled: false
