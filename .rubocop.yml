@@ -42,7 +42,7 @@ Style/AndOr:
 Style/DefWithParentheses:
   Enabled: false
 Style/FrozenStringLiteralComment:
-  EnforcedStyle: never
+  Enabled: false
 
 Layout/LineLength:
   Max: 200
@@ -78,4 +78,6 @@ Style/ExpandPathArguments:
 Style/PerlBackrefs:
   Enabled: false
 Style/IfUnlessModifier:
+  Enabled: false
+Style/SpecialGlobalVars:
   Enabled: false
