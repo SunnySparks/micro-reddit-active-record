@@ -81,3 +81,5 @@ Style/IfUnlessModifier:
   Enabled: false
 Style/SpecialGlobalVars:
   Enabled: false
+Style/SymbolArray:
+  Enabled: false
